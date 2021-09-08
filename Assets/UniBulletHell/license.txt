@@ -1,0 +1,6 @@
+﻿//////Uni Bullet Hell//////
+
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+[UnityJapan2DShootingGameSampleAssets]
+http://japan.unity3d.com/developer/document/tutorial/2d-shooting-game/
